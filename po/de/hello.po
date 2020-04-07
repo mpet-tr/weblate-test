@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Weblate 3.10.2\n"
 
 #: hello.c:11
-msgid "Hello World\n"
+msgid "test.hello_world"
 msgstr "Hallo Welt\n"
 
 msgid "Hello World 2\n"
