@@ -22,9 +22,6 @@ msgstr ""
 msgid "Hello World\n"
 msgstr "Hello World\n"
 
-msgid "Hello World 2\n"
-msgstr "Hello World 2\n"
-
 msgid "Hello World 3\n"
 msgstr " Hello World"
 
