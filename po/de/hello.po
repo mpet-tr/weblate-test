@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hello 1.0\n"
 "Report-Msgid-Bugs-To: andrea@nonymous.net\n"
 "POT-Creation-Date: 2016-01-25 18:51+0100\n"
-"PO-Revision-Date: 2020-04-07 14:02+0000\n"
+"PO-Revision-Date: 2020-04-07 14:09+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: German <http://54.156.92.220/projects/tdp-test/tr-git/de/>\n"
 "Language: de\n"
@@ -27,10 +27,10 @@ msgid "Hello World 2\n"
 msgstr "Hallo Welt 2!\n"
 
 msgid "Hello World 3\n"
-msgstr "Hallo Welt 3!"
+msgstr " Hallo Welt 3!"
 
 msgid "Hello World 4\n"
-msgstr "Hallo Welt 4!"
+msgstr " Hallo Welt 4!"
 
 msgid ""
 "Weblate allows you to specify multiple lists of components. These will then "
@@ -42,3 +42,8 @@ msgstr ""
 "werden dann als Optionen auf dem Benutzer-Dashboard angezeigt, und Benutzer "
 "können eine Liste als Standardansicht auswählen, wenn sie sich anmelden. "
 "Weitere Informationen zu dieser Funktion finden Sie unter Dashboard."
+
+#. hello world comment
+#: test.py:2
+msgid "Hello World 5n"
+msgstr "Hallo Welt"
