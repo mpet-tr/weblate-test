@@ -30,3 +30,8 @@ msgstr " Hello World"
 
 msgid "Hello World 4\n"
 msgstr " Hello World 4"
+
+#. hello world comment
+#: test.py:2
+msgid "Hello World 5n"
+msgstr ""
