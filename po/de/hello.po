@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hello 1.0\n"
 "Report-Msgid-Bugs-To: andrea@nonymous.net\n"
 "POT-Creation-Date: 2016-01-25 18:51+0100\n"
-"PO-Revision-Date: 2020-04-07 14:58+0000\n"
+"PO-Revision-Date: 2020-04-08 07:20+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: German <http://54.156.92.220/projects/tdp-test/tr-git/de/>\n"
 "Language: de\n"
@@ -19,3 +19,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.10.2\n"
 
+#. another comment
+#: test.py:5
+msgid "Thank you for your purchase."
+msgstr "Danke für ihren Einkauf."
+
+#. hello world comment
+#: test.py:2
+msgid "Hello World"
+msgstr "Hallo Welt"
