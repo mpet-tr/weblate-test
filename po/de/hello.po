@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hello 1.0\n"
 "Report-Msgid-Bugs-To: andrea@nonymous.net\n"
 "POT-Creation-Date: 2016-01-25 18:51+0100\n"
-"PO-Revision-Date: 2020-04-07 14:58+0000\n"
+"PO-Revision-Date: 2020-04-08 07:06+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: German <http://54.156.92.220/projects/tdp-test/tr-git/de/>\n"
 "Language: de\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: hello.c:11
 msgid "test.hello_world"
-msgstr "Hallo Welt\n"
+msgstr "\n"
 
 msgid "Hello World 2\n"
 msgstr "Hallo Welt 2!\n"
