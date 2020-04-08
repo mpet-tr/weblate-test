@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-08 09:38+0200\n"
+"POT-Creation-Date: 2020-04-08 10:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: test.py:10
+#, python-format
+msgid "%d file read"
+msgid_plural "%d files read"
+msgstr[0] ""
+msgstr[1] ""
 
 #. hello world comment
 #: test.py:2
@@ -30,6 +38,10 @@ msgid ""
 "(for example GNU gettext or Android string resources). The projects are "
 "there to help you organize component into logical sets (for example to group "
 "all translations used within one application)."
+msgstr ""
+
+#: test.py:9
+msgid "Please click here"
 msgstr ""
 
 #. another comment
