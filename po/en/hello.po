@@ -1,34 +1,28 @@
-# English translations for Hello package.
-# Copyright (C) 2020 THE Hello'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Hello package.
-# Martin Petraschek <martin@martin-mbp>, 2020.
-# bla
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Hello 1.0\n"
-"Report-Msgid-Bugs-To: andrea@nonymous.net\n"
-"POT-Creation-Date: 2016-01-25 18:51+0100\n"
-"PO-Revision-Date: 2020-04-07 14:18+0000\n"
-"Last-Translator: UserName LastName <user@example.com>\n"
-"Language-Team: English <http://54.156.92.220/projects/tdp-test/tr-git/en/>\n"
-"Language: en\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 08:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10.2\n"
-
-#: hello.c:11
-msgid "test.hello_world"
-msgstr "Hello World\n"
-
-msgid "Hello World 3\n"
-msgstr " Hello World"
-
-msgid "Hello World 4\n"
-msgstr " Hello World 4"
 
 #. hello world comment
 #: test.py:2
-msgid "Hello World 5n"
-msgstr "Hello World"
+msgid "Hello World"
+msgstr ""
+
+#. another comment
+#: test.py:5
+msgid "Thank you for your purchase."
+msgstr ""
