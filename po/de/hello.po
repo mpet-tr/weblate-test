@@ -19,31 +19,3 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.10.2\n"
 
-#: hello.c:11
-msgid "test.hello_world"
-msgstr "Hallo Welt\n"
-
-msgid "Hello World 2\n"
-msgstr "Hallo Welt 2!\n"
-
-msgid "Hello World 3\n"
-msgstr " Hallo, Welt 3!"
-
-msgid "Hello World 4\n"
-msgstr " Hallo Welt 4!"
-
-msgid ""
-"Weblate allows you to specify multiple lists of components. These will then "
-"appear as options on the user dashboard, and users can pick a list to be "
-"their default view when they log in. See Dashboard to learn more about this "
-"feature."
-msgstr ""
-"Weblate ermöglicht es Ihnen, mehrere Listen von Komponenten anzugeben. Diese "
-"werden dann als Optionen auf dem Benutzer-Dashboard angezeigt, und Benutzer "
-"können eine Liste als Standardansicht auswählen, wenn sie sich anmelden. "
-"Weitere Informationen zu dieser Funktion finden Sie unter Dashboard."
-
-#. hello world comment
-#: test.py:2
-msgid "Hello World 5n"
-msgstr "Hallo Welt"
