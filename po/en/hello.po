@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-08 10:21+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-04-13 15:00+0000\n"
+"Last-Translator: UserName LastName <user@example.com>\n"
+"Language-Team: English <http://weblate.sandbox.tourradar.io/projects/"
+"tdp-test/tr-git/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.10.2\n"
 
 #: test.py:10
 #, python-format
@@ -38,6 +40,12 @@ msgid ""
 "there to help you organize component into logical sets (for example to group "
 "all translations used within one application)."
 msgstr ""
+"In Weblate translations are organized into projects and components. Each "
+"project can contain number of components and those contain translations into "
+"individual languages. The component corresponds to one translatable file ("
+"for example GNU gettext or Android string resources). The projects are there "
+"to help you organize component into logical sets (for example to group all "
+"translations used within one application)."
 
 #: test.py:9
 msgid "Please click here"
@@ -61,20 +69,19 @@ msgid "tour-125-name"
 msgstr "Name of tour 125"
 
 msgid "tour-125-it-01"
-msgstr "Tour 125 itinerary 1
+msgstr "Tour 125 itinerary 1"
 
 msgid "tour-125-it-02"
-msgstr "Tour 125 itinerary 2
+msgstr "Tour 125 itinerary 2"
 
 msgid "tour-125-it-03"
 msgstr "Tour 125 itinerary 3"
 
 msgid "tour-126-it-01"
-msgstr "Tour 126 itinerary 1
+msgstr "Tour 126 itinerary 1"
 
 msgid "tour-126-it-02"
-msgstr "Tour 126 itinerary 2
+msgstr "Tour 126 itinerary 2"
 
 msgid "tour-126-it-03"
-msgstr "Tour 126 itinerary 3"
-
+msgstr "Tour 126 itinerary 3!"
