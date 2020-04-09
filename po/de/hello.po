@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hello 1.0\n"
 "Report-Msgid-Bugs-To: andrea@nonymous.net\n"
 "POT-Creation-Date: 2016-01-25 18:51+0100\n"
-"PO-Revision-Date: 2020-04-09 09:32+0000\n"
+"PO-Revision-Date: 2020-04-13 15:00+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: German <http://weblate.sandbox.tourradar.io/projects/tdp-test/"
 "tr-git/de/>\n"
@@ -28,7 +28,7 @@ msgstr "Danke für ihren Einkauf."
 #. hello world comment
 #: test.py:2
 msgid "Hello World"
-msgstr "Hallo Welt"
+msgstr "Hallo Welt!!"
 
 #: test.py:10
 #, python-format
@@ -40,3 +40,20 @@ msgstr[1] "%d Dateien gelesen"
 #: test.py:9
 msgid "Please click here"
 msgstr "Bitte hier klicken"
+
+#: test.py:7
+msgid ""
+"In Weblate translations are organized into projects and components. Each "
+"project can contain number of components and those contain translations into "
+"individual languages. The component corresponds to one translatable file "
+"(for example GNU gettext or Android string resources). The projects are "
+"there to help you organize component into logical sets (for example to group "
+"all translations used within one application)."
+msgstr ""
+"In Weblate werden Übersetzungen in Projekte und Komponenten organisiert. "
+"Jedes Projekt kann eine Anzahl von Komponenten enthalten, die Übersetzungen "
+"in einzelne Sprachen enthalten. Die Komponente entspricht einer "
+"übersetzbaren Datei (zum Beispiel GNU gettext oder Android String-Ressourcen)"
+". Die Projekte helfen Ihnen dabei, Komponenten in logische Sätze zu "
+"organisieren (z.B. um alle Übersetzungen innerhalb einer Anwendung zu "
+"gruppieren)."
