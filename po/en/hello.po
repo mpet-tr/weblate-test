@@ -24,7 +24,7 @@ msgid_plural "%d files read"
 msgstr[0] ""
 msgstr[1] ""
 
-#. hello world comment
+#. hello world comment2
 #: test.py:2
 msgid "Hello World"
 msgstr ""
