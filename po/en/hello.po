@@ -50,3 +50,31 @@ msgstr ""
 
 msgid "%d files read"
 msgstr "%d files read"
+
+msgid "tour-123-name"
+msgstr "Name of tour 123"
+
+msgid "tour-124-name"
+msgstr "Name of tour 124"
+
+msgid "tour-125-name"
+msgstr "Name of tour 125"
+
+msgid "tour-125-it-01"
+msgstr "Tour 125 itinerary 1
+
+msgid "tour-125-it-02"
+msgstr "Tour 125 itinerary 2
+
+msgid "tour-125-it-03"
+msgstr "Tour 125 itinerary 3"
+
+msgid "tour-126-it-01"
+msgstr "Tour 126 itinerary 1
+
+msgid "tour-126-it-02"
+msgstr "Tour 126 itinerary 2
+
+msgid "tour-126-it-03"
+msgstr "Tour 126 itinerary 3"
+
