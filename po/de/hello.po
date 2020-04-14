@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Hello 1.0\n"
 "Report-Msgid-Bugs-To: andrea@nonymous.net\n"
 "POT-Creation-Date: 2016-01-25 18:51+0100\n"
-"PO-Revision-Date: 2020-04-13 15:00+0000\n"
+"PO-Revision-Date: 2020-04-14 10:51+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: German <http://weblate.sandbox.tourradar.io/projects/tdp-test/"
 "tr-git/de/>\n"
@@ -57,3 +57,36 @@ msgstr ""
 ". Die Projekte helfen Ihnen dabei, Komponenten in logische Sätze zu "
 "organisieren (z.B. um alle Übersetzungen innerhalb einer Anwendung zu "
 "gruppieren)."
+
+msgid "%d files read"
+msgstr "%d Dateien gelesen"
+
+msgid "tour-123-name"
+msgstr "Name der Tour 123, Version 1"
+
+msgid "tour-124-name"
+msgstr "Name der Tour 124"
+
+msgid "tour-125-name"
+msgstr "Name der Tour 125"
+
+msgid "tour-125-it-01"
+msgstr "Tour 125 Reiseroute 1"
+
+msgid "tour-125-it-02"
+msgstr "Tour 125 Reiseroute 2"
+
+msgid "tour-125-it-03"
+msgstr "Tour 125 Reiseroute 3"
+
+msgid "tour-126-it-01"
+msgstr "Tour 126 Reiseroute 1"
+
+msgid "tour-126-it-02"
+msgstr "Tour 126 Reiseroute 2"
+
+msgid "tour-126-it-03"
+msgstr "Tour 126 Reiseroute 3!"
+
+msgid "Hello World, how are you?"
+msgstr "Hallo Welt, wie geht es dir?"
