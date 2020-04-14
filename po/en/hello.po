@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-08 10:21+0200\n"
-"PO-Revision-Date: 2020-04-13 15:00+0000\n"
+"PO-Revision-Date: 2020-04-14 09:36+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: English <http://weblate.sandbox.tourradar.io/projects/"
 "tdp-test/tr-git/en/>\n"
@@ -29,7 +29,7 @@ msgstr[1] ""
 #. hello world comment2
 #: test.py:2
 msgid "Hello World"
-msgstr ""
+msgstr "Hello World"
 
 #: test.py:7
 msgid ""
