@@ -86,5 +86,8 @@ msgstr "Tour 126 itinerary 2"
 msgid "tour-126-it-03"
 msgstr "Tour 126 itinerary 3!"
 
+msgid "tour-126-it-04"
+msgstr "Tour 126 itinerary 4!"
+
 msgid "Hello World, how are you?"
 msgstr "Hello World, how are you?"
