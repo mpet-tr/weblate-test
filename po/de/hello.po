@@ -9,16 +9,15 @@ msgstr ""
 "Project-Id-Version: Hello 1.0\n"
 "Report-Msgid-Bugs-To: andrea@nonymous.net\n"
 "POT-Creation-Date: 2016-01-25 18:51+0100\n"
-"PO-Revision-Date: 2020-04-18 11:00+0000\n"
+"PO-Revision-Date: 2020-04-27 16:14+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
-"Language-Team: German <http://weblate.sandbox.tourradar.io/projects/tdp-test/"
-"tr-git/de/>\n"
+"Language-Team: German <http://3.228.139.203/projects/tdp-test/tr-git/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10.2\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #. another comment
 #: test.py:5
@@ -28,7 +27,7 @@ msgstr "Danke für ihren Einkauf."
 #. hello world comment
 #: test.py:2
 msgid "Hello World"
-msgstr "Hallo Welt!!"
+msgstr "Hallo Welt!!!"
 
 #: test.py:10
 #, python-format
